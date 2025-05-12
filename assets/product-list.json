@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Car Part A",
+        "price": 30,
+        "image": "car_part_a.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Car Part B",
+        "price": 50,
+        "image": "car_part_b.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Car Part C",
+        "price": 70,
+        "image": "car_part_c.jpg"
+    }
+]
